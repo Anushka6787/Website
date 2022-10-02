@@ -1,0 +1,129 @@
+body{
+    background-color: #dddddd;
+}
+
+.header{
+height:200px;
+width:1500px;
+background-color: #004138;
+margin: auto;
+}
+
+.logobox{
+
+    height: 200px;
+    width: 250px;
+    border: solid 0px white;
+    float: left;
+    margin-left: 20px;
+    margin-right: 30px;    
+}
+
+.menu_box{
+
+    height: 170px;
+    width: 1100px;
+    border: solid 0px white;
+    float: left;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.li{
+height:40px;
+width:auto;
+list-style: none;
+color: white;
+float: left;
+border: solid 0px white;
+margin:auto;
+font-family:Arial, Helvetica, sans-serif;
+margin-left: 30px;
+margin-top: 50px;
+font-size: 30px;
+margin-right: 20px;
+}
+
+.mainbox{
+    height:auto;
+    width:1200px;
+    border: 0px solid black;
+    margin:auto;
+}
+
+.innerbox{
+    height:600px;
+    width:1100px;
+    border: 0px solid black;
+    background-color: #004138;
+    margin:40px;
+}
+
+.photo{
+    height:600px;
+    width:550px;
+    border: 0px solid black;
+    float:left;
+}
+
+.rightbox{
+    height:600px;
+    width:550px;
+    border: 0px solid black;
+    background-color: #004138;
+    float: right;
+}
+
+.textbox{
+    height: auto;
+    width: auto;
+    border: solid 0px white;
+    float: left;
+    color: white;
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 38px;
+    margin-top: -10px;
+    margin-left: 56px;
+    padding-top: 10px;
+
+}
+
+.span{
+    color:#ffa124;
+}
+
+.button{
+    background-color: #359e88;
+    border: solid 0px white;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    float: left;
+    margin-left: 56px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.iconbox{
+    height: 70px;
+    width: 250px;
+    border: solid 0px white;
+    float: left;
+    margin-left: 56px;
+    margin-top: 75px;
+
+}
+
+.bigtext{
+    height: auto;
+    width: 1000px;
+    border: 0px solid black;
+    color:#004138;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin:auto;
+}
+
